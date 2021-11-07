@@ -27,7 +27,7 @@ Though in my testing the build is stable, _**please do not open issues or ticket
 - Nintendo DS (DS)
 - Sega Genesis / Mega Drive (GEN) **(still in beta by Delta mainline)**
 
-## Additional Features (along with their PRs):
+## -- Additional Features (along with their PRs):
 
 ### Optimized AirPlay Support
 - Delta: https://github.com/rileytestut/Delta/pull/119
