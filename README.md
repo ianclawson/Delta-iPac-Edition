@@ -41,7 +41,7 @@ Though in my testing the build is stable, I am not planning on continuing develo
 - GEN: https://github.com/rileytestut/GPGXDeltaCore/pull/1
 ### Nintendo-Switch-Online-like Rewind
 - Delta: https://github.com/rileytestut/Delta/pull/131
-### Addition MFi Inputs (L3, R3, Options, Home, and some PS/Xbox-specific inputs)
+### Additional MFi Inputs (L3, R3, Options, Home, and some PS/Xbox-specific inputs)
 - Delta: https://github.com/rileytestut/Delta/pull/135
 - DeltaCore: https://github.com/rileytestut/DeltaCore/pull/33
 ### External Controller deadzones for analog inputs (allows analog sticks to work properly for d-pads)
