@@ -2,11 +2,12 @@
 
 <p align="center">
   <em>(a Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices)</em>
+  <em>https://github.com/rileytestut/delta</em>
 </p>
 
 ## -- About
 
-This is a page a threw together quickly as a means to both inform about and to host this iPac-Edition of Delta.
+This is a page a threw together quickly as a means to both inform about and to host this iPac-Edition of Delta
 
 As of the time of writing this (November 5th, 2021), this edition includes everything that the official Delta release currently has`*` along with some features I decided to implement myself because I was too excited about them to wait 🙃
 
@@ -28,7 +29,7 @@ https://github.com/ianclawson/Delta-iPac-Edition/releases/tag/1.0.0
 You'll need to sideload using AltStore: https://altstore.io
 Or, sideload using whichever method is your preference.
 
-The source code isn't hosted here, so if you wish to build from source, pull the PRs listed below into a cloned version Delta. I can't go over how to to do that here. Best of luck!
+The source code isn't hosted here, so if you wish to build from source, pull the PRs listed below into a cloned version of Delta. I can't go over how to to do that here. Best of luck!
 
 ## -- Supported Systems:
 - Nintendo Entertainment System (NES)
