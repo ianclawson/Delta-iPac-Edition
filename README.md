@@ -16,6 +16,8 @@ Every feature I added to this edition is accompanied by open PRs to merge the fe
 
 Why do this? To share my passion for iOS Reetro Game Emulation dev with the world, and to keep Delta fresh while we patiently wait for the next official Delta release. 
 
+Why "iPac"? It's my initials, and also a tongue-in-cheek naming intersection of two of my interests: Apple Dev and Video Games. It made sense to me at least.
+
 Though in my testing the build is stable, I am not planning on continuing development of this iPac Edition ❤️
 
 ## -- Download
