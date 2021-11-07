@@ -8,7 +8,7 @@
 
 ## -- About
 
-This is a page a threw together quickly as a means to both inform about and to host this iPac-Edition of Delta
+This is a page I threw together quickly as a means to both inform about and to host this iPac-Edition of Delta
 
 As of the time of writing this (November 5th, 2021), this edition includes everything that the official Delta release currently has`*` along with some features I decided to implement myself because I was too excited about them to wait 🙃
 
