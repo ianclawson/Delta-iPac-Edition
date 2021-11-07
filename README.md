@@ -54,7 +54,7 @@ Though in my testing the build is stable, _**please do not open issues or ticket
     - I hold a regular full-time job and have a family to take care of, so my hobby-dev work is limited; please do not expect updates to this edition.
     - I am not planning on keeping this Edition up-to-date as Delta mainline moves forward.
         - That's why I opened the PRs in the first place; so that Delta mainline one day merges them in, and this iPac Edition becomes obsolete and removed.
-- These IPA is issued free from charge or promise of continued development.
+- This IPA is issued free from charge or promise of continued development.
     - Please do not open tickets/issues for bugs or requested features.
     - I make no promises or claims for reliability, asbsense of bugs, protection of your games/saves, or performance of your device.
     - I am not planning on fixing bugs or responding to issues.
