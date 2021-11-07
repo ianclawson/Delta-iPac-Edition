@@ -85,7 +85,7 @@ The source code isn't hosted here, so if you wish to build from source, pull the
     - I am not planning on keeping this Edition up-to-date as Delta mainline moves forward.
         - That's why I opened the PRs in the first place; so that Delta mainline one day merges them in, and this iPac Edition becomes obsolete and removed.
 - This IPA is issued free from charge or promise of continued development.
-    - Please do not contact me for bug reports or feature requests.
+    - Please do not contact me for bug reports or feature requests, unless the bugs pertain specifically to the features I've added myself to Delta. Everything else should be reported to Delta mainline.
     - I make no promises or claims for reliability, asbsense of bugs, protection of your games/saves, or performance of your device.
     - Should I choose, additional features that I open PRs for on Delta mainline may make their way into a new version of this iPac Edition. No promises.
 - All code included in this release is publicly available and publicly licensed as stated by Delta mainline: https://github.com/rileytestut/delta#licensing
