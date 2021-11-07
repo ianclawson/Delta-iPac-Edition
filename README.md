@@ -1,7 +1,7 @@
 # Delta (iPac Edition)
 
 <p align="center">
-  <em>(a Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices. Check the Releases tab for the IPA)</em>
+  <em>(a Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices)</em>
 </p>
 
 ## -- About
@@ -17,6 +17,11 @@ Every feature I added to this edition is accompanied by open PRs to merge the fe
 Why do this? To share my passion for iOS Reetro Game Emulation dev with the world, and to keep Delta fresh while we patiently wait for the next official Delta release. 
 
 Though in my testing the build is stable, I am not planning on continuing development of this iPac Edition ❤️
+
+## -- Download
+
+Check the Releases tab for the IPA:
+https://github.com/ianclawson/Delta-iPac-Edition/releases/tag/1.0.0
 
 ## -- Supported Systems:
 - Nintendo Entertainment System (NES)
