@@ -25,6 +25,11 @@ Though in my testing the build is stable, I am not planning on continuing develo
 Check the Releases tab for the IPA:
 https://github.com/ianclawson/Delta-iPac-Edition/releases/tag/1.0.0
 
+You'll need to sideload using AltStore: https://altstore.io
+Or, sideload using whichever method is your preference.
+
+The source code isn't hosted here, so if you wish to build from source, pull the PRs listed below into a cloned version Delta. I can't go over how to to do that here. Best of luck!
+
 ## -- Supported Systems:
 - Nintendo Entertainment System (NES)
 - Super Nintendo Entertainment System (SNES)
