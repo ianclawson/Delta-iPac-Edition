@@ -1,7 +1,4 @@
-
-<p align="center">
-  # Delta (iPac Edition)
-</p>
+# Delta (iPac Edition)
 
 <p align="center">
   <em>(a Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices. Check the Releases tab for the IPA)</em>
