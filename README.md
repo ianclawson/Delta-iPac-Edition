@@ -40,14 +40,14 @@ Though in my testing the build is stable, _**please do not open issues or ticket
 - N64: https://github.com/rileytestut/N64DeltaCore/pull/5
 - GEN: https://github.com/rileytestut/GPGXDeltaCore/pull/1
 ### Nintendo-Switch-Online-like Rewind
-- https://github.com/rileytestut/Delta/pull/131
+- Delta: https://github.com/rileytestut/Delta/pull/131
 ### Addition MFi Inputs (L3, R3, Options, Home, and some PS/Xbox-specific inputs)
 - Delta: https://github.com/rileytestut/Delta/pull/135
 - DeltaCore: https://github.com/rileytestut/DeltaCore/pull/33
 ### External Controller deadzones for analog inputs (allows analog sticks to work properly for d-pads)
-- https://github.com/rileytestut/DeltaCore/pull/35
+- DeltaCore: https://github.com/rileytestut/DeltaCore/pull/35
 ### External Controller connection now prevents game screen from rotating
-- https://github.com/rileytestut/Delta/pull/155
+- Delta: https://github.com/rileytestut/Delta/pull/155
 
 ## Disclaimers
 - I am not affiated with or by Riley Testut, Delta, or AltStore LLC. I'm just an ordinary man with a passion for Retro Game Emulation on iOS Devices.
