@@ -58,6 +58,7 @@ Though in my testing the build is stable, _**please do not open issues or ticket
     - Please do not open tickets/issues for bugs or requested features.
     - I make no promises or claims for reliability, asbsense of bugs, protection of your games/saves, or performance of your device.
     - I am not planning on fixing bugs or responding to issues.
+    - Should I choose, additional features that I open PRs for on Delta mainline may make their way into a new version of this iPac Edition. No promises.
 - Syncing is currently **NOT** supported. I encountered technical difficulties while attempting to get this edition's syncing to coexist with mainline Delta's syncing on the same device. It's possible I'll address this in the future, but I'm not making any promises.
 - This IPA was built against the iOS 15 SDK -- and iOS 15 introduced some under-the-hood changes to how Navigation Bars and Menu Bars work -- so there are some graphical hiccups in the menus. Consider this expected behavior for this iPac Edition.
 - All code included in this release is publicly available and publicly licensed as stated by Delta mainline: https://github.com/rileytestut/delta#licensing
