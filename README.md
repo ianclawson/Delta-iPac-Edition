@@ -1,7 +1,10 @@
-# Delta (iPac Edition)
 
 <p align="center">
-  <em>(a Fan-build of the Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices. Check the Releases tab for the IPA)</em>
+  # Delta (iPac Edition)
+</p>
+
+<p align="center">
+  <em>(a Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices. Check the Releases tab for the IPA)</em>
 </p>
 
 ## About
@@ -65,5 +68,5 @@ Though in my testing the build is stable, _**please do not open issues or ticket
 
 
 <p align="center">
-  <em>Thanks for reading ❤️</em>
+  Thanks for reading ❤️
 </p>
