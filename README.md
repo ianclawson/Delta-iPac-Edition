@@ -16,7 +16,7 @@ Every feature I added to this edition is accompanied by open PRs to merge the fe
 
 Why do this? To share my passion for iOS Reetro Game Emulation dev with the world, and to keep Delta fresh while we patiently wait for the next official Delta release. 
 
-Though in my testing the build is stable, _**please do not open issues or tickets.**_ I am not planning on continuing development of this iPac Edition ❤️ _(again, see disclaimers section below for info)_
+Though in my testing the build is stable, I am not planning on continuing development of this iPac Edition ❤️
 
 ## -- Supported Systems:
 - Nintendo Entertainment System (NES)
@@ -55,9 +55,8 @@ Though in my testing the build is stable, _**please do not open issues or ticket
     - I am not planning on keeping this Edition up-to-date as Delta mainline moves forward.
         - That's why I opened the PRs in the first place; so that Delta mainline one day merges them in, and this iPac Edition becomes obsolete and removed.
 - This IPA is issued free from charge or promise of continued development.
-    - Please do not open tickets/issues for bugs or requested features.
+    - Please do not contact me for bug reports or feature requests.
     - I make no promises or claims for reliability, asbsense of bugs, protection of your games/saves, or performance of your device.
-    - I am not planning on fixing bugs or responding to issues.
     - Should I choose, additional features that I open PRs for on Delta mainline may make their way into a new version of this iPac Edition. No promises.
 - Syncing is currently **NOT** supported. I encountered technical difficulties while attempting to get this edition's syncing to coexist with mainline Delta's syncing on the same device. It's possible I'll address this in the future, but I'm not making any promises.
 - This IPA was built against the iOS 15 SDK -- and iOS 15 introduced some under-the-hood changes to how Navigation Bars and Menu Bars work -- so there are some graphical hiccups in the menus. Consider this expected behavior for this iPac Edition.
