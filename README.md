@@ -2,6 +2,7 @@
 
 <p align="center">
   <em>(a Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices)</em>
+  </br>
   <em>https://github.com/rileytestut/delta</em>
 </p>
 
