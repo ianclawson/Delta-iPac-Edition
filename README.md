@@ -4,7 +4,7 @@
   <em>(a Fan-build of Delta, an all-in-one classic video game emulator for non-jailbroken iOS devices. Check the Releases tab for the IPA)</em>
 </p>
 
-## About
+## -- About
 
 This is a page a threw together quickly as a means to both inform about and to host this iPac-Edition of Delta.
 
@@ -18,7 +18,7 @@ Why do this? To share my passion for iOS Reetro Game Emulation dev with the worl
 
 Though in my testing the build is stable, _**please do not open issues or tickets.**_ I am not planning on continuing development of this iPac Edition ❤️ _(again, see disclaimers section below for info)_
 
-## Supported Systems:
+## -- Supported Systems:
 - Nintendo Entertainment System (NES)
 - Super Nintendo Entertainment System (SNES)
 - Nintendo 64 (N64)
@@ -49,7 +49,7 @@ Though in my testing the build is stable, _**please do not open issues or ticket
 ### External Controller connection now prevents game screen from rotating
 - Delta: https://github.com/rileytestut/Delta/pull/155
 
-## Disclaimers
+## -- Disclaimers
 - I am not affiated with or by Riley Testut, Delta, or AltStore LLC. I'm just an ordinary man with a passion for Retro Game Emulation on iOS Devices.
     - I hold a regular full-time job and have a family to take care of, so my hobby-dev work is limited; please do not expect updates to this edition.
     - I am not planning on keeping this Edition up-to-date as Delta mainline moves forward.
