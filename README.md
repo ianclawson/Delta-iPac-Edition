@@ -25,10 +25,9 @@ Though in my testing the build is stable, I am not planning on continuing develo
 Check the Releases tab for the IPA:
 https://github.com/ianclawson/Delta-iPac-Edition/releases/tag/1.0.0
 
-You'll need to sideload using AltStore: https://altstore.io
-Or, sideload using whichever method is your preference.
+You'll need to sideload using AltStore: https://altstore.io or sideload using whichever method is your preference.
 
-The source code isn't hosted here, so if you wish to build from source, pull the PRs listed below into a cloned version of Delta. I can't go over how to to do that here. Best of luck!
+The source code isn't hosted here, so if you wish to build from source, you'll need to pull the PRs listed below into a locally cloned version of Delta. I can't go over how to to do that here. Best of luck!
 
 ## -- Supported Systems:
 - Nintendo Entertainment System (NES)
@@ -60,6 +59,8 @@ The source code isn't hosted here, so if you wish to build from source, pull the
 - DeltaCore: https://github.com/rileytestut/DeltaCore/pull/35
 ### External Controller connection now prevents game screen from rotating
 - Delta: https://github.com/rileytestut/Delta/pull/155
+### SNES Audio no longer crackles
+- SNES: https://github.com/rileytestut/SNESDeltaCore/pull/3
 
 ## -- FAQs
 - Where to download?
@@ -75,7 +76,7 @@ The source code isn't hosted here, so if you wish to build from source, pull the
 - There are some weird graphical bugs in the Delta menus, what's going on?
     - This IPA was built against the iOS 15 SDK -- and iOS 15 introduced some under-the-hood changes to how Navigation Bars and Menu Bars work -- so there are some graphical hiccups in the menus. I currently don't have the time to look into fixing it, so please consider this expected behavior for this iPac Edition 😉
 - Why release a build of your PRs?
-    - To share my passion for iOS Reetro Game Emulation dev with the world, and to keep Delta fresh while we patiently wait for the next official Delta release. 
+    - To share my passion for iOS Retro Game Emulation dev with the world, and to keep Delta fresh while we patiently wait for the next official Delta release. 
 - Why "iPac"?
     - It's my initials, and also a tongue-in-cheek naming intersection of two of my interests: Apple Dev and Video Games. It made sense to me at least.
 
