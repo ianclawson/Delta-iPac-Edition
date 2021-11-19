@@ -12,7 +12,7 @@ This is a page I threw together quickly as a means to both inform about and to h
 
 **Please don't consider this as a contiuation/fork of Delta, but rather a "technical review" of some features that I hope eventually make their way into Delta mainline.**
 
-As of the time of writing this (November 5th, 2021), this edition includes everything that the official Delta release currently has, along with some features I decided to implement myself because I was too excited about them to wait 🙃
+As of the time of writing this (November 19th, 2021), this edition includes everything that the official Delta release currently has, along with some features I decided to implement myself because I was too excited about them to wait 🙃
 
 Every feature I added to this edition is accompanied by open PRs to merge the features upstream into Delta mainline.
 
