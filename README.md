@@ -79,7 +79,7 @@ The source code isn't hosted here, so if you wish to build from source, you'll n
     - It's my initials, and also a tongue-in-cheek naming intersection of two of my interests: Apple Dev and Video Games. It made sense to me at least 🙃
 
 ## -- Disclaimers
-- I am not affiated with or sponsored by Riley Testut, Delta, or AltStore LLC. I'm just an ordinary man with a passion for Retro Game Emulation on iOS Devices.
+- I am not affiated with or sponsored by Riley Testut, Delta, or AltStore LLC. I'm just an ordinary guy with a passion for Retro Game Emulation on iOS Devices.
     - I hold a regular full-time job and have a family to take care of, so my hobby-dev work is limited; please do not expect updates to this edition.
     - I am not planning on keeping this Edition up-to-date as Delta mainline moves forward.
         - That's why I opened the PRs in the first place; so that Delta mainline one day merges them in, and this iPac Edition becomes obsolete and removed.
