@@ -12,9 +12,7 @@ This is a page I threw together quickly as a means to both inform about and to h
 
 **Please don't consider this as a contiuation/fork of Delta, but rather a "technical review" of some features that I hope eventually make their way into Delta mainline.**
 
-As of the time of writing this (November 5th, 2021), this edition includes everything that the official Delta release currently has`*` along with some features I decided to implement myself because I was too excited about them to wait 🙃
-
-`*`_(minus syncing -- see disclaimers section below for info)_
+As of the time of writing this (November 5th, 2021), this edition includes everything that the official Delta release currently has, along with some features I decided to implement myself because I was too excited about them to wait 🙃
 
 Every feature I added to this edition is accompanied by open PRs to merge the features upstream into Delta mainline.
 
@@ -71,8 +69,6 @@ The source code isn't hosted here, so if you wish to build from source, you'll n
     - No -- The bundle ID is different, so this will be treated as a _separate_ app by iOS and AltStore.
 - Will it automatically pull in my games/saves from Delta?
     - No -- because it's treated as a separate app from Delta, you'll need to reimport any games/saves you want in this iPac edition yourself.
-- Where is the Delta Sync functionality?
-    - Syncing is currently **NOT** supported. I encountered technical difficulties while attempting to get this edition's syncing to coexist with mainline Delta's syncing on the same device. It's possible I'll address this in the future, but I can't any promises.
 - There are some weird graphical bugs in the Delta menus, what's going on?
     - This IPA was built against the iOS 15 SDK -- and iOS 15 introduced some under-the-hood changes to how Navigation Bars and Menu Bars work -- so there are some graphical hiccups in the menus. I currently don't have the time to look into fixing it, so please consider this expected behavior for this iPac Edition 😉
 - Why release a build of your PRs?
