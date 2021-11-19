@@ -59,6 +59,8 @@ The source code isn't hosted here, so if you wish to build from source, you'll n
 - Delta: https://github.com/rileytestut/Delta/pull/155
 ### SNES Audio no longer crackles
 - SNES: https://github.com/rileytestut/SNESDeltaCore/pull/3
+### Bonus: Quick Saves now Sync
+- Delta: No PR for this one for reasons, but in [this file](https://github.com/rileytestut/Delta/blob/main/Delta/Database/Model/Human/SaveState.swift#L131) I simply removed `&& self.type != .quick`
 
 ## -- FAQs
 - Where to download?
