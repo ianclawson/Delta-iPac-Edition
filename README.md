@@ -1,8 +1,10 @@
 ## -- DISCLAIMER
 
-Almost all of the features in this fork have now **finally** been implemented in the official Delta (pretty much everything except for Rewind).
+Almost all of the features in this fork have now _finally_ been implemented in the official Delta since this fork was released in late 2021.
 
-Please use that instead of this fork.
+Pretty much everything except for NSO-like Rewind, Additional MFi Inputs, and Synced Quick Saves is there now.
+
+Please use the official Delta instead of this fork.
 
 # Delta (iPac Edition)
 
