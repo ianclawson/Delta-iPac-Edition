@@ -1,3 +1,9 @@
+## -- DISCLAIMER
+
+Almost all of the features in this fork have now **finally** been implemented in the official Delta (pretty much everything except for Rewind).
+
+Please use that instead of this fork.
+
 # Delta (iPac Edition)
 
 <p align="center">
